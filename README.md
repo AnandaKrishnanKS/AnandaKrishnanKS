@@ -28,4 +28,4 @@ passionate about coding and love to learn and work on New and old technologies
 #
 
 <img align="left" width="49%"  src="https://github-readme-stats.vercel.app/api?username=AnandaKrishnanKS&show_icons=true&theme=radical"/>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anandakrishnanks&" alt="anandakrishnanks" /></p>
+<p><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anandakrishnanks&" alt="anandakrishnanks" /></p>
