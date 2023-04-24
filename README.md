@@ -23,7 +23,7 @@ passionate about coding and love to learn and work on New and old technologies
 
  [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
 
- [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=github)](https://docs.github.com/en) [![My Skills](https://skillicons.dev/icons?i=xd)](https://docs.xd.com/) [![My Skills](https://skillicons.dev/icons?i=illustrator)](https://www.illustrator.org/) [![My Skills](https://skillicons.dev/icons?i=premiere)](https://docs.premiere.com/) [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://docs.photoshop.com/)
+ [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=github)](https://docs.github.com/en) [![My Skills](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://docs.firebase.com/) [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) [![My Skills](https://skillicons.dev/icons?i=xd)](https://docs.xd.com/) [![My Skills](https://skillicons.dev/icons?i=illustrator)](https://www.illustrator.org/) [![My Skills](https://skillicons.dev/icons?i=premiere)](https://docs.premiere.com/) [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://docs.photoshop.com/) 
 
 #
 
