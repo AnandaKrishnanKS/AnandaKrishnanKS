@@ -15,7 +15,7 @@ passionate about coding and love to learn and work on New and old technologies
  
  <img align="right"  width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaKrishnanKS&layout=compact"/>
 
-  [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/) [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/) 
+  [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 
  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/) [![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.org/en/) [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 
