@@ -17,11 +17,9 @@ passionate about coding and love to learn and work on New and old technologies
 
   [![My Skills](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 
- [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/) [![My Skills](https://skillicons.dev/icons?i=angular)](https://angular.org/en/) [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
+ [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/) [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/) [![My Skills](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)  [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
- [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
-
- [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
+ [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/) [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwind.com/)
 
  [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=github)](https://docs.github.com/en) [![My Skills](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/) [![My Skills](https://skillicons.dev/icons?i=firebase)](https://docs.firebase.com/) [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/) [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) [![My Skills](https://skillicons.dev/icons?i=xd)](https://docs.xd.com/) [![My Skills](https://skillicons.dev/icons?i=illustrator)](https://www.illustrator.org/) [![My Skills](https://skillicons.dev/icons?i=premiere)](https://docs.premiere.com/) [![My Skills](https://skillicons.dev/icons?i=photoshop)](https://docs.photoshop.com/) 
 
